@@ -1,2 +1,2 @@
 # Transposed-convolutions
-I created this jupyter notebook to teach myself how to implement transposed convolutions as matrix-vector computations. Up to now, the codes only include valid and padded transposed convolutions. In a later version I hope to add transposed convolutions with strides.
+I created this jupyter notebook to better understand transposed convolutions. In this notebook I compute the transposed convolutions as matrix-vector operations with numpy and compare the results with the tensorflow ConvTranspose2D function. This notebook only contains valid and padded transposed convolutions.
